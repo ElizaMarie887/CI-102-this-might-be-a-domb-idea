@@ -14,7 +14,7 @@ let paragraph = document.querySelector('p');
 
  let item3 = document.querySelector('#item-3')
 
- item3.innerText = "Hi!"
+ item3.innerText = "I say, Hi!"
 
  let myImage = document.querySelector('img')
 
