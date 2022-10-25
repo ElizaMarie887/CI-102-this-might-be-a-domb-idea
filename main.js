@@ -22,7 +22,7 @@ let paragraph = document.querySelector('p');
 
  myImage.style.height = "300px";
 
- let myImage2 = document.querySelector('.img2')
+ let myImage2 = document.querySelector('#img2')
 
  myImage2.style.height = "300px";
 
