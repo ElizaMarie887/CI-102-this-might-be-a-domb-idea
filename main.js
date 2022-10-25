@@ -28,6 +28,6 @@ let paragraph = document.querySelector('p');
 
  let list16 = document.querySelector('#item-16')
 
- list16.classList.add("item")
+ list16.className = "item"
 
  list16.innerText = 'Wont get fooled again.'
